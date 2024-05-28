@@ -1,0 +1,526 @@
+2024-04-05 09:38:47 - Unrecognized face detected with 59.41% match
+2024-04-05 09:38:48 - Unrecognized face detected with 59.00% match
+2024-04-05 09:38:49 - Unrecognized face detected with 55.73% match
+2024-04-05 09:38:51 - Unrecognized face detected with 36.72% match
+2024-04-05 09:38:52 - Unrecognized face detected with 35.09% match
+2024-04-05 09:38:52 - Unrecognized face detected with 42.23% match
+2024-04-05 09:38:56 - Unrecognized face detected with 56.33% match
+2024-04-05 09:38:56 - Unrecognized face detected with 56.48% match
+2024-04-05 09:38:57 - Unrecognized face detected with 57.98% match
+2024-04-05 09:38:57 - Unrecognized face detected with 56.71% match
+2024-04-05 09:38:58 - Unrecognized face detected with 57.16% match
+2024-04-05 09:38:58 - Unrecognized face detected with 57.37% match
+2024-04-05 09:38:59 - Unrecognized face detected with 53.97% match
+2024-04-05 09:38:59 - Unrecognized face detected with 56.06% match
+2024-04-05 09:39:00 - Unrecognized face detected with 56.37% match
+2024-04-05 09:39:00 - Unrecognized face detected with 55.45% match
+2024-04-05 09:39:01 - Unrecognized face detected with 55.81% match
+2024-04-05 09:39:01 - Unrecognized face detected with 55.04% match
+2024-04-05 09:39:02 - Unrecognized face detected with 59.16% match
+2024-04-05 09:39:02 - Unrecognized face detected with 58.35% match
+2024-04-05 09:39:03 - Unrecognized face detected with 56.85% match
+2024-04-05 09:39:03 - Unrecognized face detected with 54.90% match
+2024-04-05 09:39:04 - Unrecognized face detected with 57.96% match
+2024-04-05 09:39:04 - Unrecognized face detected with 54.99% match
+2024-04-05 09:39:05 - Unrecognized face detected with 54.00% match
+2024-04-05 09:39:05 - Unrecognized face detected with 59.16% match
+2024-04-05 09:39:06 - Unrecognized face detected with 56.19% match
+2024-04-05 09:39:06 - Unrecognized face detected with 54.46% match
+2024-04-05 09:39:07 - Unrecognized face detected with 58.07% match
+2024-04-05 09:39:07 - Unrecognized face detected with 57.14% match
+2024-04-05 09:39:08 - Unrecognized face detected with 51.10% match
+2024-04-05 09:39:08 - Unrecognized face detected with 51.08% match
+2024-04-05 09:39:09 - Unrecognized face detected with 51.94% match
+2024-04-05 09:39:09 - Unrecognized face detected with 54.69% match
+2024-04-05 09:39:10 - Unrecognized face detected with 52.51% match
+2024-04-05 09:39:10 - Unrecognized face detected with 53.23% match
+2024-04-05 09:39:11 - Unrecognized face detected with 52.86% match
+2024-04-05 09:39:11 - Unrecognized face detected with 52.31% match
+2024-04-05 09:39:12 - Unrecognized face detected with 51.38% match
+2024-04-05 09:39:12 - Unrecognized face detected with 49.59% match
+2024-04-05 09:39:13 - Unrecognized face detected with 49.64% match
+2024-04-05 09:39:13 - Unrecognized face detected with 51.65% match
+2024-04-05 09:39:14 - Unrecognized face detected with 52.85% match
+2024-04-05 09:39:14 - Unrecognized face detected with 56.47% match
+2024-04-05 09:39:15 - Unrecognized face detected with 55.84% match
+2024-04-05 09:39:15 - Unrecognized face detected with 57.99% match
+2024-04-05 09:39:16 - Unrecognized face detected with 57.72% match
+2024-04-05 09:39:16 - Unrecognized face detected with 56.64% match
+2024-04-05 09:39:17 - Unrecognized face detected with 59.83% match
+2024-04-05 09:39:19 - Unrecognized face detected with 57.66% match
+2024-04-05 09:39:19 - Unrecognized face detected with 57.71% match
+2024-04-05 09:39:20 - Unrecognized face detected with 58.80% match
+2024-04-05 09:39:20 - Unrecognized face detected with 55.68% match
+2024-04-05 09:39:21 - Unrecognized face detected with 56.27% match
+2024-04-05 09:39:21 - Unrecognized face detected with 55.03% match
+2024-04-05 09:39:22 - Unrecognized face detected with 56.52% match
+2024-04-05 09:39:22 - Unrecognized face detected with 47.94% match
+2024-04-05 09:39:23 - Unrecognized face detected with 53.60% match
+2024-04-05 09:39:23 - Unrecognized face detected with 52.68% match
+2024-04-05 09:39:24 - Unrecognized face detected with 53.28% match
+2024-04-05 09:39:24 - Unrecognized face detected with 52.05% match
+2024-04-05 09:39:25 - Unrecognized face detected with 52.69% match
+2024-04-05 09:39:25 - Unrecognized face detected with 51.43% match
+2024-04-05 09:39:26 - Unrecognized face detected with 49.92% match
+2024-04-05 09:39:27 - Unrecognized face detected with 44.36% match
+2024-04-05 09:39:27 - Unrecognized face detected with 51.38% match
+2024-04-05 09:39:28 - Unrecognized face detected with 54.50% match
+2024-04-05 09:39:28 - Unrecognized face detected with 52.49% match
+2024-04-05 09:39:29 - Unrecognized face detected with 54.24% match
+2024-04-05 09:39:29 - Unrecognized face detected with 53.94% match
+2024-04-05 09:39:30 - Unrecognized face detected with 54.26% match
+2024-04-05 09:39:30 - Unrecognized face detected with 53.80% match
+2024-04-05 09:39:31 - Unrecognized face detected with 55.56% match
+2024-04-05 09:39:31 - Unrecognized face detected with 53.18% match
+2024-04-05 09:39:32 - Unrecognized face detected with 51.61% match
+2024-04-05 09:39:32 - Unrecognized face detected with 50.45% match
+2024-04-05 09:39:33 - Unrecognized face detected with 55.59% match
+2024-04-05 09:39:33 - Unrecognized face detected with 49.28% match
+2024-04-05 09:39:34 - Unrecognized face detected with 55.92% match
+2024-04-05 09:39:34 - Unrecognized face detected with 59.50% match
+2024-04-05 09:39:35 - Unrecognized face detected with 58.84% match
+2024-04-05 09:39:35 - Unrecognized face detected with 58.43% match
+2024-04-05 09:39:36 - Unrecognized face detected with 54.56% match
+2024-04-05 09:39:36 - Unrecognized face detected with 58.30% match
+2024-04-05 09:39:37 - Unrecognized face detected with 53.92% match
+2024-04-05 09:39:37 - Unrecognized face detected with 56.35% match
+2024-04-05 09:39:38 - Unrecognized face detected with 57.41% match
+2024-04-05 09:39:38 - Unrecognized face detected with 53.72% match
+2024-04-05 09:39:39 - Unrecognized face detected with 55.88% match
+2024-04-05 09:39:39 - Unrecognized face detected with 57.99% match
+2024-04-05 09:39:40 - Unrecognized face detected with 59.10% match
+2024-04-05 09:39:40 - Unrecognized face detected with 57.06% match
+2024-04-05 09:39:41 - Unrecognized face detected with 57.20% match
+2024-04-05 09:39:41 - Unrecognized face detected with 57.07% match
+2024-04-05 09:39:42 - Unrecognized face detected with 57.13% match
+2024-04-05 09:39:42 - Unrecognized face detected with 56.84% match
+2024-04-05 09:39:43 - Unrecognized face detected with 57.58% match
+2024-04-05 09:39:43 - Unrecognized face detected with 57.06% match
+2024-04-05 09:39:44 - Unrecognized face detected with 57.68% match
+2024-04-05 09:39:44 - Unrecognized face detected with 57.11% match
+2024-04-05 09:39:45 - Unrecognized face detected with 56.03% match
+2024-04-05 09:39:45 - Unrecognized face detected with 55.26% match
+2024-04-05 09:39:46 - Unrecognized face detected with 56.36% match
+2024-04-05 09:39:46 - Unrecognized face detected with 55.40% match
+2024-04-05 09:39:56 - Unrecognized face detected with 51.81% match
+2024-04-05 09:39:57 - Face recognized with 54.15% match
+2024-04-05 09:39:57 - Face recognized with 54.87% match
+2024-04-05 09:39:58 - Face recognized with 55.29% match
+2024-04-05 09:39:58 - Face recognized with 56.56% match
+2024-04-05 09:39:59 - Face recognized with 55.87% match
+2024-04-05 09:39:59 - Face recognized with 57.96% match
+2024-04-05 09:40:00 - Face recognized with 57.11% match
+2024-04-05 09:40:00 - Face recognized with 57.86% match
+2024-04-05 09:40:01 - Face recognized with 60.98% match
+2024-04-05 09:40:01 - Face recognized with 60.45% match
+2024-04-05 09:40:02 - Face recognized with 56.42% match
+2024-04-05 09:40:02 - Face recognized with 56.52% match
+2024-04-05 09:40:03 - Face recognized with 56.83% match
+2024-04-05 09:40:03 - Face recognized with 55.16% match
+2024-04-05 09:40:04 - Face recognized with 56.04% match
+2024-04-05 09:40:04 - Face recognized with 59.21% match
+2024-04-05 09:40:05 - Face recognized with 58.72% match
+2024-04-05 09:40:05 - Face recognized with 58.21% match
+2024-04-05 09:40:06 - Face recognized with 56.57% match
+2024-04-05 09:40:06 - Face recognized with 54.23% match
+2024-04-05 09:40:07 - Face recognized with 57.18% match
+2024-04-05 09:40:07 - Face recognized with 56.94% match
+2024-04-05 09:40:08 - Face recognized with 53.29% match
+2024-04-05 09:40:08 - Face recognized with 57.83% match
+2024-04-05 09:40:09 - Face recognized with 57.31% match
+2024-04-05 09:40:09 - Face recognized with 59.34% match
+2024-04-05 09:40:10 - Face recognized with 58.51% match
+2024-04-05 09:40:10 - Face recognized with 58.23% match
+2024-04-05 09:40:11 - Face recognized with 57.57% match
+2024-04-05 09:40:11 - Face recognized with 57.34% match
+2024-04-05 09:40:12 - Face recognized with 56.56% match
+2024-04-05 09:40:12 - Face recognized with 56.69% match
+2024-04-05 09:40:13 - Face recognized with 56.79% match
+2024-04-05 09:40:13 - Face recognized with 57.27% match
+2024-04-05 09:40:14 - Face recognized with 55.07% match
+2024-04-05 09:40:14 - Face recognized with 54.40% match
+2024-04-05 09:40:20 - Unrecognized face detected with 39.26% match
+2024-04-05 09:40:20 - Unrecognized face detected with 46.30% match
+2024-04-05 09:40:21 - Face recognized with 55.96% match
+2024-04-05 09:40:21 - Face recognized with 59.66% match
+2024-04-05 09:40:22 - Face recognized with 59.69% match
+2024-04-05 09:40:22 - Face recognized with 59.77% match
+2024-04-05 09:40:23 - Face recognized with 60.70% match
+2024-04-05 09:40:23 - Face recognized with 60.22% match
+2024-04-05 09:40:24 - Unrecognized face detected with 47.03% match
+2024-04-05 09:40:35 - Unrecognized face detected with 40.43% match
+2024-04-05 09:40:36 - Unrecognized face detected with 50.65% match
+2024-04-05 09:40:36 - Face recognized with 54.88% match
+2024-04-05 09:40:37 - Face recognized with 56.23% match
+2024-04-05 09:40:37 - Face recognized with 57.69% match
+2024-04-05 09:40:38 - Face recognized with 53.63% match
+2024-04-05 09:40:38 - Face recognized with 56.51% match
+2024-04-05 09:40:39 - Face recognized with 57.82% match
+2024-04-05 09:40:39 - Face recognized with 57.23% match
+2024-04-05 09:40:40 - Face recognized with 55.08% match
+2024-04-05 09:40:40 - Face recognized with 56.88% match
+2024-04-05 09:40:41 - Face recognized with 54.16% match
+2024-04-05 09:40:41 - Face recognized with 57.08% match
+2024-04-05 09:40:42 - Face recognized with 54.80% match
+2024-04-05 09:40:42 - Face recognized with 57.71% match
+2024-04-05 09:40:43 - Face recognized with 58.87% match
+2024-04-05 09:40:43 - Face recognized with 58.05% match
+2024-04-05 09:40:44 - Face recognized with 59.32% match
+2024-04-05 09:40:44 - Face recognized with 55.10% match
+2024-04-05 09:40:45 - Face recognized with 58.17% match
+2024-04-05 09:40:45 - Face recognized with 56.73% match
+2024-04-05 09:40:46 - Face recognized with 53.34% match
+2024-04-05 09:40:46 - Face recognized with 58.35% match
+2024-04-05 09:40:47 - Face recognized with 58.98% match
+2024-04-05 09:40:47 - Face recognized with 60.43% match
+2024-04-05 09:40:48 - Face recognized with 59.14% match
+2024-04-05 09:40:48 - Unrecognized face detected with 51.32% match
+2024-04-05 09:40:49 - Unrecognized face detected with 50.52% match
+2024-04-05 09:40:49 - Face recognized with 56.10% match
+2024-04-05 09:40:50 - Unrecognized face detected with 51.23% match
+2024-04-05 09:40:50 - Face recognized with 58.35% match
+2024-04-05 09:40:51 - Face recognized with 58.40% match
+2024-04-05 09:40:51 - Face recognized with 59.64% match
+2024-04-05 09:40:52 - Face recognized with 59.66% match
+2024-04-05 09:40:52 - Face recognized with 55.92% match
+2024-04-05 09:40:53 - Face recognized with 58.83% match
+2024-04-05 09:40:53 - Face recognized with 57.92% match
+2024-04-05 09:40:54 - Face recognized with 59.17% match
+2024-04-05 15:28:53 - Face recognized with 56.77% match
+2024-04-05 15:28:53 - Face recognized with 54.98% match
+2024-04-05 15:28:54 - Face recognized with 56.92% match
+2024-04-05 15:28:54 - Face recognized with 56.16% match
+2024-04-05 15:28:55 - Unrecognized face detected with 40.07% match
+2024-04-05 15:28:56 - Unrecognized face detected with 47.66% match
+2024-04-05 15:28:57 - Unrecognized face detected with 42.73% match
+2024-04-05 15:28:57 - Unrecognized face detected with 42.19% match
+2024-04-05 15:28:58 - Unrecognized face detected with 40.59% match
+2024-04-05 15:28:58 - Unrecognized face detected with 41.64% match
+2024-04-05 15:28:59 - Unrecognized face detected with 44.88% match
+2024-04-05 15:28:59 - Unrecognized face detected with 43.06% match
+2024-04-05 15:29:00 - Unrecognized face detected with 43.10% match
+2024-04-05 15:29:00 - Unrecognized face detected with 38.83% match
+2024-04-05 15:29:01 - Unrecognized face detected with 37.83% match
+2024-04-05 15:29:01 - Unrecognized face detected with 38.27% match
+2024-04-05 15:29:02 - Unrecognized face detected with 38.38% match
+2024-04-05 15:29:02 - Unrecognized face detected with 37.76% match
+2024-04-05 15:29:03 - Unrecognized face detected with 40.24% match
+2024-04-05 15:29:03 - Unrecognized face detected with 37.59% match
+2024-04-05 15:29:04 - Unrecognized face detected with 38.97% match
+2024-04-05 15:29:04 - Unrecognized face detected with 42.66% match
+2024-04-05 15:29:05 - Unrecognized face detected with 46.19% match
+2024-04-05 15:29:05 - Unrecognized face detected with 46.61% match
+2024-04-05 15:29:06 - Unrecognized face detected with 46.32% match
+2024-04-05 15:29:06 - Unrecognized face detected with 46.79% match
+2024-04-05 15:29:07 - Unrecognized face detected with 45.65% match
+2024-04-05 15:29:07 - Unrecognized face detected with 43.26% match
+2024-04-05 15:29:08 - Unrecognized face detected with 44.51% match
+2024-04-05 15:29:08 - Unrecognized face detected with 47.29% match
+2024-04-05 15:29:15 - Unrecognized face detected with 32.49% match
+2024-04-05 15:29:15 - Unrecognized face detected with 32.08% match
+2024-04-05 15:29:16 - Unrecognized face detected with 34.08% match
+2024-04-05 15:29:16 - Unrecognized face detected with 43.38% match
+2024-04-05 15:29:17 - Unrecognized face detected with 40.16% match
+2024-04-05 15:29:17 - Unrecognized face detected with 36.90% match
+2024-04-05 15:29:18 - Unrecognized face detected with 37.52% match
+2024-04-05 15:29:18 - Unrecognized face detected with 37.47% match
+2024-04-05 15:29:19 - Unrecognized face detected with 37.78% match
+2024-04-05 15:29:19 - Unrecognized face detected with 35.27% match
+2024-04-05 15:29:20 - Unrecognized face detected with 35.50% match
+2024-04-05 15:29:20 - Unrecognized face detected with 35.08% match
+2024-04-05 15:29:21 - Unrecognized face detected with 35.22% match
+2024-04-05 15:29:21 - Unrecognized face detected with 35.91% match
+2024-04-05 15:29:22 - Unrecognized face detected with 36.07% match
+2024-04-05 15:29:22 - Unrecognized face detected with 34.61% match
+2024-04-05 15:29:23 - Unrecognized face detected with 32.11% match
+2024-04-05 15:29:23 - Unrecognized face detected with 36.51% match
+2024-04-05 15:29:24 - Unrecognized face detected with 36.44% match
+2024-04-05 15:29:24 - Unrecognized face detected with 38.19% match
+2024-04-05 15:29:25 - Unrecognized face detected with 37.37% match
+2024-04-05 15:29:26 - Unrecognized face detected with 37.23% match
+2024-04-05 15:29:26 - Unrecognized face detected with 37.46% match
+2024-04-05 15:29:27 - Unrecognized face detected with 37.11% match
+2024-04-05 15:29:27 - Unrecognized face detected with 33.76% match
+2024-04-05 15:29:28 - Unrecognized face detected with 34.81% match
+2024-04-05 15:29:28 - Unrecognized face detected with 33.31% match
+2024-04-05 15:29:29 - Unrecognized face detected with 36.76% match
+2024-04-05 15:29:29 - Unrecognized face detected with 37.14% match
+2024-04-05 15:29:30 - Unrecognized face detected with 36.91% match
+2024-04-05 15:29:30 - Unrecognized face detected with 38.99% match
+2024-04-05 15:29:31 - Unrecognized face detected with 36.75% match
+2024-04-05 15:29:31 - Unrecognized face detected with 37.40% match
+2024-04-05 15:29:32 - Unrecognized face detected with 38.59% match
+2024-04-05 15:29:32 - Unrecognized face detected with 36.86% match
+2024-04-05 15:29:33 - Unrecognized face detected with 37.28% match
+2024-04-05 15:29:33 - Unrecognized face detected with 37.95% match
+2024-04-05 15:29:34 - Unrecognized face detected with 37.98% match
+2024-04-05 15:29:34 - Unrecognized face detected with 35.92% match
+2024-04-05 15:29:35 - Unrecognized face detected with 35.68% match
+2024-04-05 15:29:35 - Unrecognized face detected with 32.47% match
+2024-04-05 15:29:36 - Unrecognized face detected with 34.55% match
+2024-04-05 15:29:36 - Unrecognized face detected with 34.64% match
+2024-04-05 15:29:37 - Unrecognized face detected with 32.74% match
+2024-04-05 15:29:37 - Unrecognized face detected with 34.60% match
+2024-04-05 15:29:38 - Unrecognized face detected with 35.02% match
+2024-04-05 15:29:38 - Unrecognized face detected with 33.63% match
+2024-04-05 15:29:39 - Unrecognized face detected with 35.36% match
+2024-04-05 15:29:39 - Unrecognized face detected with 33.67% match
+2024-04-05 15:29:40 - Face recognized with 59.49% match
+2024-04-05 15:29:41 - Face recognized with 59.49% match
+2024-04-05 15:29:41 - Face recognized with 60.66% match
+2024-04-05 15:29:42 - Face recognized with 52.77% match
+2024-04-05 15:29:42 - Face recognized with 59.58% match
+2024-04-05 15:29:43 - Face recognized with 62.75% match
+2024-04-05 15:29:43 - Face recognized with 58.47% match
+2024-04-05 15:29:44 - Face recognized with 59.28% match
+2024-04-05 15:29:44 - Face recognized with 61.20% match
+2024-04-05 15:29:45 - Face recognized with 59.58% match
+2024-04-05 15:29:45 - Unrecognized face detected with 49.39% match
+2024-04-05 15:29:46 - Unrecognized face detected with 50.94% match
+2024-04-05 15:29:46 - Unrecognized face detected with 36.94% match
+2024-04-05 15:29:47 - Unrecognized face detected with 30.49% match
+2024-04-05 15:29:47 - Unrecognized face detected with 31.35% match
+2024-04-05 15:29:48 - Unrecognized face detected with 33.57% match
+2024-04-05 15:29:48 - Unrecognized face detected with 39.75% match
+2024-04-05 15:29:49 - Unrecognized face detected with 38.05% match
+2024-04-05 15:29:49 - Unrecognized face detected with 37.66% match
+2024-04-05 15:29:50 - Unrecognized face detected with 44.26% match
+2024-04-05 15:29:52 - Unrecognized face detected with 25.76% match
+2024-04-05 15:29:53 - Unrecognized face detected with 31.65% match
+2024-04-05 15:29:54 - Unrecognized face detected with 31.25% match
+2024-04-05 15:29:54 - Unrecognized face detected with 30.86% match
+2024-04-05 15:29:55 - Unrecognized face detected with 28.66% match
+2024-04-05 15:29:55 - Unrecognized face detected with 29.20% match
+2024-04-05 15:29:56 - Unrecognized face detected with 31.32% match
+2024-04-05 15:29:56 - Unrecognized face detected with 19.61% match
+2024-04-05 15:29:57 - Unrecognized face detected with 47.75% match
+2024-04-05 15:29:58 - Face recognized with 59.58% match
+2024-04-05 15:29:58 - Face recognized with 53.91% match
+2024-04-05 15:29:59 - Face recognized with 57.91% match
+2024-04-05 15:29:59 - Face recognized with 52.01% match
+2024-04-05 15:30:00 - Face recognized with 60.31% match
+2024-04-05 15:30:00 - Face recognized with 58.86% match
+2024-04-05 15:30:01 - Face recognized with 52.38% match
+2024-04-05 15:30:01 - Face recognized with 59.37% match
+2024-04-05 15:30:02 - Face recognized with 56.95% match
+2024-04-05 15:30:02 - Face recognized with 55.13% match
+2024-04-05 15:30:03 - Face recognized with 52.44% match
+2024-04-05 15:30:07 - Unrecognized face detected with 48.98% match
+2024-04-05 16:54:14 - Unrecognized face detected with 45.55% match
+2024-04-05 16:54:15 - Unrecognized face detected with 47.95% match
+2024-04-05 16:54:15 - Face recognized with 52.38% match
+2024-04-05 16:54:16 - Unrecognized face detected with 49.85% match
+2024-04-05 16:54:16 - Face recognized with 57.30% match
+2024-04-05 16:54:17 - Unrecognized face detected with 49.33% match
+2024-04-05 16:54:17 - Face recognized with 52.11% match
+2024-04-05 16:54:18 - Face recognized with 53.90% match
+2024-04-05 16:54:18 - Face recognized with 54.36% match
+2024-04-05 16:54:19 - Face recognized with 53.17% match
+2024-04-05 16:54:19 - Face recognized with 52.53% match
+2024-04-05 16:54:20 - Unrecognized face detected with 50.85% match
+2024-04-05 16:54:20 - Unrecognized face detected with 44.09% match
+2024-04-05 16:54:21 - Unrecognized face detected with 37.27% match
+2024-04-05 16:54:21 - Unrecognized face detected with 50.45% match
+2024-04-05 16:54:22 - Unrecognized face detected with 47.34% match
+2024-04-05 16:54:22 - Unrecognized face detected with 48.05% match
+2024-04-05 16:54:23 - Unrecognized face detected with 45.15% match
+2024-04-05 16:54:23 - Unrecognized face detected with 45.36% match
+2024-04-05 16:54:24 - Unrecognized face detected with 41.47% match
+2024-04-05 16:54:24 - Unrecognized face detected with 46.36% match
+2024-04-05 16:54:25 - Unrecognized face detected with 43.95% match
+2024-04-05 16:54:25 - Unrecognized face detected with 48.14% match
+2024-04-05 16:54:26 - Unrecognized face detected with 43.87% match
+2024-04-05 16:54:26 - Unrecognized face detected with 48.45% match
+2024-04-05 16:54:27 - Unrecognized face detected with 48.03% match
+2024-04-05 16:54:27 - Unrecognized face detected with 45.66% match
+2024-04-05 16:54:28 - Unrecognized face detected with 45.38% match
+2024-04-05 16:54:28 - Unrecognized face detected with 43.60% match
+2024-04-05 16:54:29 - Unrecognized face detected with 47.93% match
+2024-04-05 16:54:29 - Unrecognized face detected with 46.22% match
+2024-04-05 16:54:30 - Unrecognized face detected with 44.17% match
+2024-04-05 16:54:30 - Unrecognized face detected with 44.44% match
+2024-04-05 16:54:31 - Face recognized with 52.91% match
+2024-04-05 16:54:31 - Unrecognized face detected with 50.54% match
+2024-04-05 16:54:32 - Unrecognized face detected with 49.97% match
+2024-04-05 16:54:32 - Unrecognized face detected with 43.44% match
+2024-04-05 16:54:33 - Face recognized with 53.91% match
+2024-04-05 16:54:33 - Unrecognized face detected with 51.14% match
+2024-04-05 16:54:34 - Unrecognized face detected with 48.04% match
+2024-04-05 16:54:34 - Unrecognized face detected with 44.82% match
+2024-04-05 16:54:35 - Unrecognized face detected with 42.58% match
+2024-04-05 16:54:35 - Unrecognized face detected with 42.63% match
+2024-04-05 16:54:37 - Unrecognized face detected with 29.93% match
+2024-04-05 16:54:37 - Unrecognized face detected with 30.02% match
+2024-04-05 16:54:38 - Unrecognized face detected with 35.17% match
+2024-04-05 16:54:38 - Unrecognized face detected with 34.78% match
+2024-04-05 16:54:39 - Unrecognized face detected with 25.28% match
+2024-04-05 16:54:39 - Unrecognized face detected with 35.81% match
+2024-04-05 16:54:40 - Unrecognized face detected with 30.69% match
+2024-04-05 16:54:40 - Unrecognized face detected with 30.87% match
+2024-04-05 16:54:41 - Unrecognized face detected with 31.38% match
+2024-04-05 16:54:41 - Unrecognized face detected with 30.67% match
+2024-04-05 16:54:42 - Unrecognized face detected with 34.15% match
+2024-04-05 16:54:42 - Unrecognized face detected with 30.59% match
+2024-04-05 16:54:43 - Unrecognized face detected with 31.39% match
+2024-04-05 16:54:43 - Unrecognized face detected with 32.79% match
+2024-04-05 16:54:44 - Unrecognized face detected with 31.36% match
+2024-04-05 16:54:44 - Unrecognized face detected with 30.17% match
+2024-04-05 16:54:45 - Unrecognized face detected with 26.46% match
+2024-04-05 16:54:45 - Unrecognized face detected with 33.34% match
+2024-04-05 16:54:46 - Unrecognized face detected with 35.09% match
+2024-04-05 16:54:46 - Unrecognized face detected with 34.69% match
+2024-04-05 16:54:47 - Unrecognized face detected with 34.90% match
+2024-04-05 16:54:47 - Unrecognized face detected with 34.70% match
+2024-04-05 16:54:48 - Unrecognized face detected with 31.82% match
+2024-04-05 16:54:48 - Unrecognized face detected with 31.85% match
+2024-04-05 16:54:49 - Unrecognized face detected with 27.79% match
+2024-04-05 16:54:49 - Unrecognized face detected with 26.91% match
+2024-04-05 16:54:50 - Unrecognized face detected with 29.46% match
+2024-04-05 16:54:50 - Unrecognized face detected with 29.03% match
+2024-04-05 16:54:51 - Unrecognized face detected with 31.25% match
+2024-04-05 16:54:51 - Unrecognized face detected with 34.42% match
+2024-04-05 16:54:52 - Unrecognized face detected with 32.30% match
+2024-04-05 16:54:52 - Unrecognized face detected with 30.53% match
+2024-04-05 16:54:53 - Unrecognized face detected with 30.11% match
+2024-04-05 16:54:53 - Unrecognized face detected with 27.36% match
+2024-04-05 16:54:54 - Unrecognized face detected with 29.75% match
+2024-04-05 16:54:54 - Unrecognized face detected with 28.51% match
+2024-04-05 16:54:55 - Unrecognized face detected with 29.52% match
+2024-04-05 16:54:55 - Unrecognized face detected with 33.29% match
+2024-04-05 16:54:56 - Unrecognized face detected with 27.71% match
+2024-04-05 16:54:56 - Unrecognized face detected with 28.62% match
+2024-04-05 16:54:57 - Unrecognized face detected with 40.06% match
+2024-04-05 16:54:59 - Unrecognized face detected with 38.67% match
+2024-04-05 16:55:00 - Unrecognized face detected with 27.98% match
+2024-04-05 16:55:00 - Unrecognized face detected with 34.08% match
+2024-04-05 16:55:01 - Unrecognized face detected with 31.41% match
+2024-04-05 16:55:01 - Unrecognized face detected with 33.13% match
+2024-04-05 16:55:02 - Unrecognized face detected with 28.61% match
+2024-04-05 16:55:02 - Unrecognized face detected with 29.53% match
+2024-04-05 16:55:03 - Unrecognized face detected with 31.03% match
+2024-04-05 16:55:03 - Unrecognized face detected with 34.30% match
+2024-04-05 16:55:04 - Unrecognized face detected with 33.82% match
+2024-04-05 16:55:04 - Unrecognized face detected with 50.70% match
+2024-04-05 16:55:05 - Face recognized with 52.10% match
+2024-04-05 16:55:05 - Unrecognized face detected with 46.17% match
+2024-04-05 16:55:06 - Face recognized with 53.09% match
+2024-04-05 16:55:06 - Face recognized with 54.09% match
+2024-04-05 16:55:07 - Unrecognized face detected with 50.70% match
+2024-04-05 16:55:07 - Face recognized with 55.17% match
+2024-04-05 16:55:08 - Face recognized with 55.77% match
+2024-04-05 16:55:08 - Unrecognized face detected with 50.46% match
+2024-04-05 16:55:09 - Face recognized with 53.96% match
+2024-04-05 16:55:09 - Face recognized with 53.93% match
+2024-04-05 16:55:10 - Face recognized with 57.89% match
+2024-04-05 16:55:10 - Face recognized with 52.84% match
+2024-04-05 16:55:11 - Face recognized with 55.41% match
+2024-04-05 16:55:11 - Unrecognized face detected with 49.66% match
+2024-04-05 16:55:12 - Face recognized with 52.38% match
+2024-04-05 16:55:12 - Unrecognized face detected with 50.92% match
+2024-04-05 16:55:13 - Unrecognized face detected with 51.96% match
+2024-04-05 16:55:13 - Face recognized with 53.27% match
+2024-04-05 16:55:14 - Unrecognized face detected with 50.44% match
+2024-04-05 16:55:14 - Unrecognized face detected with 49.92% match
+2024-04-05 16:55:15 - Unrecognized face detected with 47.24% match
+2024-04-05 16:55:15 - Unrecognized face detected with 48.33% match
+2024-04-05 16:55:16 - Face recognized with 52.50% match
+2024-04-05 16:55:16 - Face recognized with 52.68% match
+2024-04-05 16:55:17 - Face recognized with 55.29% match
+2024-04-05 16:55:17 - Unrecognized face detected with 51.89% match
+2024-04-05 16:55:18 - Unrecognized face detected with 50.03% match
+2024-04-05 16:55:18 - Face recognized with 53.85% match
+2024-04-05 16:55:19 - Face recognized with 58.65% match
+2024-04-05 16:55:19 - Unrecognized face detected with 47.40% match
+2024-04-05 16:55:20 - Unrecognized face detected with 46.12% match
+2024-04-05 16:55:20 - Face recognized with 55.16% match
+2024-04-05 16:55:21 - Unrecognized face detected with 51.52% match
+2024-04-05 16:55:21 - Unrecognized face detected with 50.20% match
+2024-04-05 16:55:22 - Face recognized with 53.20% match
+2024-04-05 16:55:22 - Face recognized with 53.77% match
+2024-04-05 16:55:23 - Face recognized with 52.95% match
+2024-04-05 16:55:23 - Unrecognized face detected with 50.60% match
+2024-04-05 16:55:24 - Face recognized with 55.22% match
+2024-04-05 16:55:24 - Unrecognized face detected with 51.63% match
+2024-04-05 16:55:25 - Unrecognized face detected with 50.18% match
+2024-04-05 16:55:25 - Unrecognized face detected with 51.28% match
+2024-04-05 16:55:26 - Unrecognized face detected with 51.65% match
+2024-04-05 16:55:26 - Unrecognized face detected with 49.13% match
+2024-04-05 16:55:27 - Face recognized with 54.49% match
+2024-04-05 16:55:27 - Face recognized with 54.44% match
+2024-04-05 16:55:28 - Face recognized with 53.51% match
+2024-04-05 16:55:29 - Face recognized with 52.25% match
+2024-04-05 16:55:29 - Unrecognized face detected with 49.93% match
+2024-04-05 16:55:30 - Unrecognized face detected with 49.78% match
+2024-04-05 16:55:30 - Unrecognized face detected with 50.06% match
+2024-04-05 16:55:31 - Face recognized with 52.30% match
+2024-04-05 16:55:31 - Unrecognized face detected with 50.94% match
+2024-04-05 16:55:32 - Unrecognized face detected with 47.18% match
+2024-04-05 16:55:32 - Unrecognized face detected with 51.53% match
+2024-04-05 16:55:33 - Unrecognized face detected with 47.61% match
+2024-04-05 16:55:33 - Unrecognized face detected with 48.97% match
+2024-04-05 16:55:34 - Unrecognized face detected with 51.08% match
+2024-04-05 16:55:34 - Face recognized with 52.08% match
+2024-04-05 16:55:35 - Unrecognized face detected with 51.95% match
+2024-04-05 16:55:35 - Unrecognized face detected with 51.01% match
+2024-04-05 16:55:36 - Unrecognized face detected with 51.30% match
+2024-04-05 16:55:36 - Unrecognized face detected with 46.72% match
+2024-04-05 16:55:37 - Unrecognized face detected with 45.15% match
+2024-04-05 16:55:38 - Unrecognized face detected with 28.52% match
+2024-04-05 16:56:13 - Unrecognized face detected with 50.71% match
+2024-04-05 16:56:13 - Unrecognized face detected with 43.39% match
+2024-04-05 16:56:14 - Face recognized with 53.86% match
+2024-04-05 16:56:14 - Face recognized with 53.56% match
+2024-04-05 16:56:15 - Unrecognized face detected with 47.08% match
+2024-04-05 16:56:15 - Face recognized with 53.26% match
+2024-04-05 16:56:16 - Face recognized with 54.05% match
+2024-04-05 16:56:16 - Face recognized with 55.54% match
+2024-04-05 16:56:17 - Face recognized with 55.29% match
+2024-04-05 16:56:17 - Face recognized with 52.25% match
+2024-04-05 16:56:18 - Unrecognized face detected with 50.13% match
+2024-04-05 16:56:18 - Unrecognized face detected with 46.28% match
+2024-04-05 16:56:19 - Unrecognized face detected with 51.08% match
+2024-04-05 16:56:19 - Unrecognized face detected with 48.91% match
+2024-04-05 16:56:20 - Unrecognized face detected with 49.21% match
+2024-04-05 16:56:20 - Unrecognized face detected with 51.07% match
+2024-04-05 16:56:21 - Unrecognized face detected with 48.27% match
+2024-04-05 16:56:21 - Unrecognized face detected with 46.34% match
+2024-04-05 16:56:25 - Unrecognized face detected with 47.09% match
+2024-04-05 16:56:25 - Face recognized with 53.16% match
+2024-04-05 16:56:26 - Face recognized with 56.85% match
+2024-04-05 16:56:26 - Face recognized with 56.09% match
+2024-04-05 16:56:27 - Face recognized with 55.47% match
+2024-04-05 16:56:27 - Face recognized with 56.15% match
+2024-04-05 16:56:28 - Unrecognized face detected with 49.11% match
+2024-04-05 16:56:28 - Face recognized with 59.23% match
+2024-04-05 16:56:29 - Face recognized with 59.36% match
+2024-04-05 16:56:29 - Face recognized with 62.31% match
+2024-04-05 16:56:30 - Face recognized with 58.49% match
+2024-04-05 16:56:35 - Unrecognized face detected with 43.73% match
+2024-04-05 16:56:35 - Unrecognized face detected with 45.68% match
+2024-04-05 16:56:36 - Unrecognized face detected with 46.58% match
+2024-04-05 16:56:36 - Unrecognized face detected with 51.17% match
+2024-04-05 16:56:37 - Unrecognized face detected with 50.10% match
+2024-04-05 16:56:37 - Unrecognized face detected with 49.81% match
+2024-04-05 16:56:38 - Unrecognized face detected with 48.59% match
+2024-04-05 16:56:38 - Unrecognized face detected with 51.51% match
+2024-04-05 16:56:39 - Unrecognized face detected with 51.06% match
+2024-04-05 16:56:39 - Face recognized with 52.15% match
+2024-04-05 16:56:40 - Face recognized with 53.04% match
+2024-04-05 16:56:40 - Unrecognized face detected with 48.88% match
+2024-04-05 16:56:41 - Unrecognized face detected with 48.03% match
+2024-04-05 16:56:41 - Unrecognized face detected with 49.06% match
+2024-04-05 16:56:42 - Unrecognized face detected with 47.30% match
+2024-04-05 16:56:42 - Unrecognized face detected with 47.90% match
+2024-04-05 16:56:43 - Unrecognized face detected with 47.32% match
+2024-04-05 16:56:43 - Unrecognized face detected with 50.14% match
+2024-04-05 16:56:44 - Face recognized with 52.33% match
+2024-04-05 16:56:44 - Unrecognized face detected with 50.77% match
+2024-04-05 16:56:45 - Unrecognized face detected with 50.57% match
+2024-04-05 16:56:45 - Unrecognized face detected with 49.59% match
+2024-04-05 16:56:46 - Unrecognized face detected with 44.77% match
+2024-04-05 16:56:47 - Unrecognized face detected with 35.63% match
+2024-04-05 16:56:48 - Unrecognized face detected with 47.76% match
+2024-04-05 16:56:48 - Unrecognized face detected with 43.17% match
+2024-04-05 16:56:49 - Unrecognized face detected with 44.75% match
+2024-04-05 16:56:49 - Unrecognized face detected with 44.16% match
+2024-04-05 16:56:53 - Face recognized with 52.14% match
